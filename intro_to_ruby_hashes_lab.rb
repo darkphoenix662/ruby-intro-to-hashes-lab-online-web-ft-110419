@@ -1,7 +1,8 @@
 def new_hash
-  monopoly = {
-    :railroads => {}
+  empty_hash = {
   }
+end
+empty_hash
 end
 
 def actor
